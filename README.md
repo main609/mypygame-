@@ -1,5 +1,13 @@
 # mypygame-
 use as the recent project 
+
+" the code should be copyed from below "
+
+"the imports are neccesary for the excution "  
+
+
+
+
 import pygame
 import os
 pygame.font.init()
